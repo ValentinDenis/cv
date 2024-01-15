@@ -71,6 +71,7 @@ export const RESUME_DATA = {
       badges: ["Remote"],
       title: "Expert iOS Developer",
       start: "2022",
+      end: "Current",
       description:
         "Available to help you develop your iOS app, helping with architecture, implementation and project leadership",
     },
@@ -81,6 +82,7 @@ export const RESUME_DATA = {
       title: "Senior Lead iOS Developer",
       logo: DaxiumLogo,
       start: "2021",
+      end: "Current",
       description:
         "In charge of developing the new version of iOS App, implementing KMP Framework for cross-platform modules, leading the security team for ISO 27001 Implementation, helping the DevOps team",
     },
@@ -96,6 +98,7 @@ export const RESUME_DATA = {
     },
     {
       company: "Phoceis",
+      link: "http://phoceis.com/",
       badges: ["On-Site", "Lille"],
       title: "Junior iOS Developer",
       start: "2016",
