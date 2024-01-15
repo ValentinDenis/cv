@@ -69,7 +69,7 @@ export const RESUME_DATA = {
       company: "Freelance",
       link: "https://www.malt.fr/profile/valentindenis",
       badges: ["Remote"],
-      title: "iOS Development Expert",
+      title: "Expert iOS Developer",
       start: "2022",
       description:
         "Available to help you develop your iOS app, helping with architecture, implementation and project leadership",
@@ -206,6 +206,16 @@ export const RESUME_DATA = {
         label: "meert.fr",
         href: "https://www.meert.fr/en/",
       },
+    },
+  ],
+  certification: [
+    {
+      name: "ISO 27001 Lead Implementer",
+      providerName: "LSTI",
+      link: "https://www.lsti-certification.fr/fr/implementer-27001/",
+      issueDate: "2023",
+      expirationDate: "2025",
+      certificateId: "ISO27001"
     },
   ],
 } as const;
