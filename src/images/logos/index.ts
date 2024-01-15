@@ -16,6 +16,10 @@ import DaxiumLogo from "./daxium.png"
 import TastyCloudLogo from "./tastycloud.png";
 import YearProgressLogo from "./yearprogress.svg";
 import Minimal from "./minimal.svg";
+import LesaffreLogo from "./lesaffre.png";
+import MursLogo from "./murs.png";
+import TAOLogo from "./tao.png";
+import AuchanLogo from "./auchan.png";
 
 export {
   ConsultlyLogo,
@@ -35,5 +39,9 @@ export {
   TastyCloudLogo,
   YearProgressLogo,
   Minimal,
-  DaxiumLogo
+  DaxiumLogo,
+  LesaffreLogo,
+  MursLogo,
+  TAOLogo,
+  AuchanLogo
 };
