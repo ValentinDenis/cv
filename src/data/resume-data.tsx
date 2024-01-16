@@ -18,8 +18,8 @@ export const RESUME_DATA = {
   avatarUrl: "https://media.licdn.com/dms/image/D4E03AQGPU1PBjYIN2Q/profile-displayphoto-shrink_800_800/0/1705271211767?e=1710979200&v=beta&t=iIUpgaxVsWOfqANM3a1LAlDEVA-hTgkcZQhtYlgsDAc",
   personalWebsiteUrl: "https://valentindenis.fr",
   contact: {
-    email: "valentindenis80@gmail.com",
-    tel: "+33668411612",
+    email: "pro@valentindenis.fr",
+    tel: "",
     social: [
       {
         name: "GitHub",
