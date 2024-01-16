@@ -70,7 +70,7 @@ export const RESUME_DATA = {
       link: "https://www.malt.fr/profile/valentindenis",
       badges: ["Remote"],
       title: "Expert iOS Developer",
-      start: "2022",
+      start: "2021",
       end: "Current",
       description:
         "Available to help you develop your iOS app, helping with architecture, implementation and project leadership",
@@ -81,7 +81,7 @@ export const RESUME_DATA = {
       badges: ["On-Site", "Nantes"],
       title: "Senior Lead iOS Developer",
       logo: DaxiumLogo,
-      start: "2021",
+      start: "2022",
       end: "Current",
       description:
         "In charge of developing the new version of iOS App, implementing KMP Framework for cross-platform modules, leading the security team for ISO 27001 Implementation, helping the DevOps team",
